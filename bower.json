@@ -1,0 +1,20 @@
+{
+  "name": "socket-io-sample",
+  "version": "0.0.1",
+  "authors": [
+    "khan0405 <khan4257@gmail.com>"
+  ],
+  "description": "socket io chatting sample",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
